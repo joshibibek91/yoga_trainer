@@ -29,7 +29,7 @@ function Home() {
         <div className="hero-bg" />
         <div className="hero-content">
           <div className="hero-left animate-slide-up">
-            <span className="hero-tag">Breathwork &middot; Pranayama &middot; Qigong</span>
+            <span className="hero-tag">Breathwork &middot; Pranayam &middot; Qigong</span>
             <h1>Energy in<br /><span className="highlight">Every Breath</span></h1>
             <p>
               Learn Breathwork, Pranayama, Meditation &amp; Qigong with
